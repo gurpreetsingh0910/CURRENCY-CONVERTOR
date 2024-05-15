@@ -22,7 +22,9 @@ To use the source code management system:
 
 ## Technologies Used
 HTML : Frontend framework for building the user interface.
+
 CSS : To beautify the Frontend framework.
+
 JAVA SCRIPT: Backend environment for handling server-side logic.
 
 ## Contributing
