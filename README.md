@@ -35,3 +35,21 @@ We welcome contributions from the community! To contribute to the project:
 4. Make changes and commit them:
 5. Push to your branch:
 6. Open a pull request to merge your changes into the main branch.
+
+
+
+Common Issues/Troubleshooting
+Issue: Application won't start
+Ensure JDK is installed and properly configured.
+Check if the required ports are free.
+Issue: Conversion rates are not accurate
+Ensure the application is fetching the latest rates from the API.
+Check your internet connection.
+Changelog
+v1.0.0
+Initial release with basic currency conversion features and user authentication.
+FAQ
+How often are the exchange rates updated?
+Exchange rates are updated every hour.
+Can I use this application on mobile devices?
+Yes, the application is responsive and works on mobile devices.
