@@ -20,6 +20,13 @@ To use the source code management system:
 3. Sign in with your credentials or create a new account.
 4. Start managing your projects, creating branches, and collaborating with your team.
 
+## Technologies Used
+HTML : Frontend framework for building the user interface.
+
+CSS : To beautify the Frontend framework.
+
+JAVA SCRIPT: Backend environment for handling server-side logic.
+
 ## Contributing
 We welcome contributions from the community! To contribute to the project:
 1. Fork the repository.
