@@ -53,3 +53,5 @@ How often are the exchange rates updated?
 Exchange rates are updated every hour.
 Can I use this application on mobile devices?
 Yes, the application is responsive and works on mobile devices.
+
+I Hope this solves all your issues.s
